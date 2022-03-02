@@ -13,6 +13,10 @@ statsmodels = "^0.13.1"
 jupyter = "^1.0.0"
 plotly = "^5.5.0"
 factor_analyzer = "^0.4.0"
+matplotlib = "^3.5.1"
+scikit-dimension = "^0.3"
+numba = "^0.55.1"
+numpy = "1.21"
 
 [tool.poetry.dev-dependencies]
 
